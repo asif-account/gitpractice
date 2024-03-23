@@ -1,1 +1,5 @@
-console.log("Hi dear")
+let message = "Hi Dear"
+
+console.log(message)
+
+console.log(message.toUpperCase)
